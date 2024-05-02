@@ -3,7 +3,7 @@
 - 🌱 Actualmente estoy aprendiendo en estruracion html y css.
 - 💞️ Busco colaborar en mas proyecto dentro del phyton y javascript.
 - 📫 Cómo contactarme
-- [whatsApp](https://api.whatsapp.com/send?phone=161622602318&amp;text=hola%20soy%20del%20proyecto%F0%9F%98%8C)
+- [whatsApp](https://api.whatsapp.com/send?phone=16162260231&amp;text=hola%20soy%20del%20proyecto%F0%9F%98%8C)
 - [facebook](https://www.facebook.com/profile.php?id=100080017104819SSss)
 - [instagram](https://www.instagram.com/serdream?igsh=MTY2Nm91dzBydGw4bw==)
 - [tiKtok](https://www.tiktok.com/@sergio.raul.marti41)
