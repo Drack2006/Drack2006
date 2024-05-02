@@ -2,7 +2,7 @@
 - 👀 Estoy interesado en aprender en codificación en distintos idiomas.
 - 🌱 Actualmente estoy aprendiendo en estruracion html y css.
 - 💞️ Busco colaborar en mas proyecto dentro del phyton y javascript.
-- 📫 Cómo contactarme .
+- 📫 Cómo contactarme whatsApp .
 - 😄 Pronombres: checo-mamado.
 - ⚡ Dato curioso: me gusta de desde pequeño la codificacion empece a jugar inspecionando al dinosaurio de google sin internet
 <!---
